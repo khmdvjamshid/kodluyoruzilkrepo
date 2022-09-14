@@ -31,3 +31,12 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 *** 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## **Profile**
+***
+![Profile](https://i.ibb.co/4gn7STL/image.png[/img)
+
+
+***
+#### **Creator**: [Khamidov Jamshid](https://app.patika.dev/khamidov)
+
